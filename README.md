@@ -18,3 +18,5 @@ Python 3 with Tkinter. Run `python mainv2.py` from the `mental_math` project dir
 The current app uses relative paths and accepts floating-point text for answers. Session scoring and edge cases need review before calling it complete. Drive file metadata lists the selected source as created and modified 2026-09-13; no authored project date appears in the source.
 
 No license has been selected.
+
+**Source file date in Drive File Explorer:** the source mainv2.py was created and last modified 13 September 2026. The prepared copy is named main.py; this is file metadata, not a verified coding timeline.
